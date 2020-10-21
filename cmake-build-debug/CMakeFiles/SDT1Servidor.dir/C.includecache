@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thisisyj/CLionProjects/SDT1Servidor/Socket.h
+sys/socket.h
+-
+netinet/in.h
+-
+
+/home/thisisyj/CLionProjects/SDT1Servidor/Socket_Servidor.h
+
+/home/thisisyj/CLionProjects/SDT1Servidor/main.c
+Socket_Servidor.h
+/home/thisisyj/CLionProjects/SDT1Servidor/Socket_Servidor.h
+Socket.h
+/home/thisisyj/CLionProjects/SDT1Servidor/Socket.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

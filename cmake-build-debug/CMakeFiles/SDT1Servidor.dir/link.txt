@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SDT1Servidor.dir/main.c.o CMakeFiles/SDT1Servidor.dir/Socket.c.o CMakeFiles/SDT1Servidor.dir/Socket_Servidor.c.o  -o SDT1Servidor 
